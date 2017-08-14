@@ -1,4 +1,4 @@
-package com.ritik.accelsg;
+package com.Devanand.accelero_filter;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
