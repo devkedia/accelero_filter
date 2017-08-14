@@ -21,9 +21,9 @@ This app was built using [Android Studio 3.0](https://developer.android.com/stud
 
 ## Author
 
-**Ritik Jain** 
+**Devanand kedia** 
 
-14EE35022
+14EE35003
 
 ## License
 
